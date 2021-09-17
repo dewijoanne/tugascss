@@ -1,0 +1,15 @@
+#daftar-siswa{
+  background-color:gainsboro;
+}
+
+.siswa1{
+  background-color: #60A5FA;
+}
+
+.siswa5{
+  background-color: #F87171;
+}
+
+#daftar-siswa :hover {
+  background-color: #E5E7EB;
+}
